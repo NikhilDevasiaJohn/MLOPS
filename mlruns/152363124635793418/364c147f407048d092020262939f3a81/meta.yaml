@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/152363124635793418/364c147f407048d092020262939f3a81/artifacts
+end_time: 1751797158507
+entry_point_name: ''
+experiment_id: '152363124635793418'
+lifecycle_stage: active
+run_id: 364c147f407048d092020262939f3a81
+run_name: painted-wolf-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751797156287
+status: 3
+tags: []
+user_id: nikhil
