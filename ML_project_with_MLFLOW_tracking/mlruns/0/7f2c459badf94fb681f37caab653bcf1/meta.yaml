@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7f2c459badf94fb681f37caab653bcf1/artifacts
+end_time: 1751902845796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f2c459badf94fb681f37caab653bcf1
+run_name: traveling-bug-874
+run_uuid: 7f2c459badf94fb681f37caab653bcf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751902845791
+status: 4
+tags: []
+user_id: nikhil

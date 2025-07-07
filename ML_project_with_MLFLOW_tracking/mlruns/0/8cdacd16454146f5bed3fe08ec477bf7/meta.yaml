@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8cdacd16454146f5bed3fe08ec477bf7/artifacts
+end_time: 1751902848545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cdacd16454146f5bed3fe08ec477bf7
+run_name: painted-croc-984
+run_uuid: 8cdacd16454146f5bed3fe08ec477bf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751902848540
+status: 4
+tags: []
+user_id: nikhil
