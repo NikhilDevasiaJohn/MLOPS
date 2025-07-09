@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/85069d04bc7c438196c6f52f0b2ce501/artifacts
+end_time: 1752072842569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85069d04bc7c438196c6f52f0b2ce501
+run_name: exultant-frog-182
+run_uuid: 85069d04bc7c438196c6f52f0b2ce501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752072840849
+status: 4
+tags: []
+user_id: nikhil
